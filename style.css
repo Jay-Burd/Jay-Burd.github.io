@@ -9,7 +9,6 @@ h1 {
 }
 
 #password-div {
-    border: 5px solid;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -36,4 +35,11 @@ main {
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 10px;
+}
+
+button {
+    background-color: ivory;
+    color: black;
+    font-family: "Silkscreen", sans-serif;
+    
 }
